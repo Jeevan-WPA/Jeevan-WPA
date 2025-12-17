@@ -13,7 +13,7 @@ My name is **Jeevan Raju** and I'm a **Robotics and AI engineer**. I'm from **In
     <tr>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,regex,github,git,arduino,autocad,bash,c,docker,fastapi,kubernetes,linux,md,matlab,opencv,postman,pytorch,raspberrypi,sklearn,selenium,tensorflow,ubuntu,vscode,windows,mongodb,mysql,cpp,html,css,notion" alt="skills" />
+          <img src="https://skillicons.dev/icons?i=py,regex,github,git,arduino,autocad,bash,c,docker,fastapi,kubernetes,linux,matlab,opencv,postman,pytorch,raspberrypi,sklearn,selenium,tensorflow,ubuntu,vscode,windows,mongodb,mysql,cpp,html,css,js,notion" alt="skills" />
         </a>
       </td>
     </tr>
